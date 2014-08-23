@@ -1,11 +1,9 @@
 Tag Java Micro Edition Midlet
 ============================
 
-Archiving the code remains of Mytago tag system project from 2006. Developed for J2ME/Symbian phones and was obsoleted by the smart phone era with better camera and processing power.
+Archiving the code remains of [Mytago](http://hackorama.com/mytago/) tag system project from 2006. Developed for J2ME/Symbian phones and was obsoleted by the smart phone era with better camera and processing power.
 
-More on Mytago project [at http://hackorama.com/mytago/](http://hackorama.com/mytago/)
-
-This is the app code that runs on the JME phone.
+This is the java midlet app code that runs on the JME phones.
 
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/01-startup.png)
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/02-camera.png)
