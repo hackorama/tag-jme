@@ -9,6 +9,8 @@ This is the app code that runs on the JME phone.
 
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/01-startup.png)
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/02-camera.png)
+
+
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/03-decoding.png)
 ![alt screenshot](https://github.com/hackorama/tag-jme/blob/master/screenshots/04-result.png)
 
